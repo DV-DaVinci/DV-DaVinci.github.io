@@ -7,8 +7,10 @@
   type: stackOverFlow
   icon: 'fab fa-stack-overflow'   # icons powered by <https://fontawesome.com/>
   url:  'https://stackoverflow.com/users/18472266/dv-davinci'
-  #type: twitter
-  #icon: 'fab fa-twitter'
+  
+  type: twitter
+  icon: 'fab fa-twitter'
+  url:  'https://twitter.com/DavinciWdv'
 -
   type: email
   icon: 'fas fa-envelope'
