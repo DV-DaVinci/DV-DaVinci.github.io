@@ -4,8 +4,11 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: stackOverFlow
+  icon: 'fab fa-stack-overflow'   # icons powered by <https://fontawesome.com/>
+  url:  ''
+  #type: twitter
+  #icon: 'fab fa-twitter'
 -
   type: email
   icon: 'fas fa-envelope'
