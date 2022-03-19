@@ -1,7 +1,7 @@
 ---
 title: Ruby on MacOS
 date: 2022-03-19 08:48:00 +09:00 
-categories: [MacOS, Ruby] 
+categories: [MacOS, Ruby on MacOS] 
 tags: [setting]     # TAG names should always be lowercase
 ---
 
