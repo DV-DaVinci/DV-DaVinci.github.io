@@ -41,7 +41,7 @@ Window에서 Git을 설치하는 방법입니다.
 
 ### Select Destination Location
 
-![스크린샷(5).png](/assets/2022-03-19-Install-Git/3)
+![스크린샷(5).png](/assets/2022-03-19-Install-Git/3.png)
 
 저는 Depth가 깊은 것을 안 좋아해서 C 드라이브에 지정된 폴더로 설정했습니다.
 
