@@ -1,7 +1,7 @@
 ---
 title: Install Ruby
 date: 2022-03-19 07:26:00 +09:00 
-categories: [WindowOS, Ruby on WindowOS] 
+categories: [WindowOS, Install Ruby ] 
 tags: [setting]     # TAG names should always be lowercase
 ---
 
