@@ -34,7 +34,7 @@ $ bash tools/init.sh
 
 ## _Config.yml
 
-```YML
+```yml
 # The Site Configuration
 
 # Import the theme
