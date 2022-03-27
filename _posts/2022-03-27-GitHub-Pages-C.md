@@ -56,7 +56,7 @@ Inatall your favicon에서 safari 관련 코드를 복사합니다.
 
 ![스크린샷(195).png](/assets/2022-03-27-GitHub-Pages-C/6.png)
 
-Push하기 전, safari 해당 파일이 Pages 디렉토리에 있는지 확인합니다.
+Push하기 전, safari 해당 파일이 Pages favicon 디렉토리에 있는지 확인합니다.
 
 ## Comment Box
 
@@ -133,7 +133,7 @@ Google Search Console([https://search.google.com/search-console/about](https://s
 
 ![스크린샷(186).png](/assets/2022-03-27-GitHub-Pages-C/17.png)
 
-다음의 파일을 다운로드 합니다.
+다음의 HTML파일을 다운로드 합니다.
 
 ![스크린샷(140).png](/assets/2022-03-27-GitHub-Pages-C/18.png)
 
