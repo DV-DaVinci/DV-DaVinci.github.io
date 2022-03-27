@@ -187,8 +187,7 @@ Sitemap: http://www.example.com/sitemap.xml
 
 ![스크린샷(190).png](/assets/2022-03-27-GitHub-Pages-C/25.png)
 
-<Pages주소>/sitemap.xml 로 접속하여 확인해봅니다. 
-
+`<Pages주소>/sitemap.xml`로 접속하여 확인해봅니다. 
 
 ### Add Sitemap
 
