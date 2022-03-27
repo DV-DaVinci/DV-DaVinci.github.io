@@ -52,7 +52,7 @@ Inatall your favicon에서 safari 관련 코드를 복사합니다.
 
 ![스크린샷(194).png](/assets/2022-03-27-GitHub-Pages-C/5.png)
 
-_includes/favicon.html에 Safari 관련 코드를 삽입합니다.
+`_includes/favicon.html`에 Safari 관련 코드를 삽입합니다.
 
 ![스크린샷(195).png](/assets/2022-03-27-GitHub-Pages-C/6.png)
 
@@ -92,7 +92,7 @@ Install 후 작성자는 지정된 공간에서 관리하고자 따로 Comments 
 
 [https://utteranc.es/](https://utteranc.es/) 로 접속 후, Configuration의 Repository의 repo: 에
 
-GitHub Name/Repo Name을 입력합니다. 
+`GitHub Name/Repo Name`을 입력합니다. 
 
 ![스크린샷(176).png](/assets/2022-03-27-GitHub-Pages-C/11.png)
 
@@ -110,7 +110,7 @@ Theme 에서 utterances의 테마를 설정합니다. 저는 GitHub Dark를 선�
 
 ![스크린샷(178).png](/assets/2022-03-27-GitHub-Pages-C/13.png)
 
-_layouts/post.html 맨 하단에 복사+붙이기 한 후 Push 합니다. 
+`_layouts/post.html` 맨 하단에 복사+붙이기 한 후 Push 합니다. 
 
 ![스크린샷(179).png](/assets/2022-03-27-GitHub-Pages-C/14.png)
 
