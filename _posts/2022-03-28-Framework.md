@@ -2,7 +2,7 @@
 title: 프레임워크(Framework)란?
 date: 2022-03-28 07:31:00 +09:00 
 categories: [WEB-Backend, Spring] 
-tags: [Spring]     # TAG names should always be lowercase
+tags: [Spring, framework]     # TAG names should always be lowercase
 ---
 
 **프레임워크란** 어떤 걸까요?

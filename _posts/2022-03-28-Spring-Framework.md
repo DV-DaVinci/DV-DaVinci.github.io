@@ -2,7 +2,7 @@
 title: 스프링 프레임워크(Spring Framework)란?
 date: 2022-03-28 07:31:00 +09:00 
 categories: [WEB-Backend, Spring] 
-tags: [Spring]     # TAG names should always be lowercase
+tags: [Spring, Spring framework]     # TAG names should always be lowercase
 ---
 
 **스프링 프레임워크**는 한마디로 이렇게 정리할 수 있습니다.
