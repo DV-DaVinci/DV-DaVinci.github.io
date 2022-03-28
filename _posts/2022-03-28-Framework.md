@@ -1,24 +1,11 @@
 ---
 title: 프레임워크(Framework)란?
-date: 2022-03-28 07:21:00 +09:00 
+date: 2022-03-28 07:31:00 +09:00 
 categories: [WEB-Backend, Spring] 
 tags: [Spring]     # TAG names should always be lowercase
 ---
 
 ---
-
-- 환경
-    
-    Spring Tool Suite 4
-    Version: 4.13.1.RELEASE
-    
-    OS_ARCH="x86_64"
-    OS_NAME="Windows"
-    
-
----
-
-## 프레임워크(Framework)란?
 
 먼저, **프레임워크란** 어떤 걸까요?
 
@@ -33,6 +20,11 @@ tags: [Spring]     # TAG names should always be lowercase
 **→ 구지 많은 말을 하지 않고도 개발자들끼리 서로 약속을 해서 개발을 더 '용이'하게 더 나아가 가장 중요한 '일관성', '유지보수'를 손쉽게 도와준다!**
 
 **즉,** **스프링 프레임워크는 어플리케이션의 구조를 결정할 수 있는 뼈대코드를 제공**합니다.
+<br>
+
+## 프레임워크가 왜 필요할까?
+
+---
 
 하나의 재밌는 가정을 해봅시다.
 
@@ -47,6 +39,8 @@ tags: [Spring]     # TAG names should always be lowercase
 2번 개발자가 보수를 맡게 되고, 볼륨을 1씩 올리던 리모컨이 10씩 올리는 것으로 소비자에게 돌아옵니다.
 
 이런 경우가 발생하면 안 되겠지요?
+<br>
+<br>
 
 여기서도 알 수 있듯이 개발과정에서는 사실상 이 뼈대를 제공하는 것보다도 속 안에 있는 것들이 **유지보수되는 과정에서 망가질 수 있기 때문에** 이런 것들도 잘 규정해 줄 수 있는 프레임워크가 더 각광받습니다.
 
