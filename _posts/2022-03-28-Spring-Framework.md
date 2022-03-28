@@ -5,8 +5,6 @@ categories: [WEB-Backend, Spring]
 tags: [Spring]     # TAG names should always be lowercase
 ---
 
----
-
 **스프링 프레임워크**는 한마디로 이렇게 정리할 수 있습니다.
 
 ### ***“IoC와 AOP를 지원하는 경량 컨테이너 프레임워크”***

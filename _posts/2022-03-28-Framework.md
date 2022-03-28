@@ -5,9 +5,7 @@ categories: [WEB-Backend, Spring]
 tags: [Spring]     # TAG names should always be lowercase
 ---
 
----
-
-먼저, **프레임워크란** 어떤 걸까요?
+**프레임워크란** 어떤 걸까요?
 
 하나의 거대한 뼈대, 틀이다라고 생각하시면 되겠습니다!
 
