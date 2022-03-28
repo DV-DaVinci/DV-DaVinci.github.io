@@ -28,11 +28,9 @@ tags: [Spring]     # TAG names should always be lowercase
 
 이렇게 하면 이해가 어려우니 **POJO가 아닌 것**을 가져와서 비교하며 설명해보겠습니다.
 
-****
 
 **일반적인 객체 ↔ Servlet 클래스 (POJO가 아닌 것)**
 
-****
 
 Servlet 클래스를 만들 때는 요구하는 규칙이 있고, 그거에 알맞게 만들어야 합니다.
 
@@ -40,9 +38,8 @@ Servlet클래스를 만들면 기본적으로 httpServlet을 상속(extends)받�
 
 이런 것들이 일반적인 POJO는 아니라고 볼 수 있습니다.
 
-****
-
 **다시말해, POJO 형태는 특별한 규칙이 없고 단순한 객체들을 관리할 수 있다는 겁니다.**
+<br>
 
 ### 컨테이너
 
