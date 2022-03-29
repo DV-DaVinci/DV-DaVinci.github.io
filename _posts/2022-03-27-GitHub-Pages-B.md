@@ -128,7 +128,7 @@ toc: true
 
 Gemfile.lock을 삭제하면 local server 에서 구동이 불가합니다. 때문에 삭제보다는 .gitignore에 Gemfile.lock 추가를 권장합니다.
 
-작성자는 수정사항이 있다면 VS Code로 고치고 GitHub Desktop으로 Push 하는 형식으로 포스팅을 올리고 있어서 loacl server 구동 없이도 별다른 어려움 없이 포스팅을 하고 있습니다.
+작성자는 수정사항이 있다면 VS Code로 고치고 GitHub Desktop으로 Push 하는 형식으로 포스팅을 올리고 있어서 local server 구동 없이도 별다른 어려움 없이 포스팅을 하고 있습니다.
 
 ## Push
 
