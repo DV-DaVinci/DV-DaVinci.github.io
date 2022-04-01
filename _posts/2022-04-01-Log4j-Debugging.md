@@ -1,7 +1,7 @@
 ---
 title: Log4j Error Debugging
 date: 2022-04-01 09:53:00 +09:00 
-categories: [Debugging, STS4] 
+categories: [Debugging] 
 tags: [Spring, Log4j]     # TAG names should always be lowercase
 ---
 
