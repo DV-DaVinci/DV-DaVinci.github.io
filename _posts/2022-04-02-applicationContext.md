@@ -1,5 +1,5 @@
 ---
-title: applicationContext.xml
+title: ApplicationContext.xml
 date: 2022-04-02 06:19:00 +09:00 
 categories: [WEB-Backend, Spring] 
 tags: [Spring, applicationContext.xml]     # TAG names should always be lowercase
