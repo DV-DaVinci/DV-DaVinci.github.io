@@ -1,7 +1,7 @@
 ---
 title: Spring Legacy Project 생성 오류
 date: 2022-03-10 11:31:00 +09:00 
-categories: [WindowOS, STS4] 
+categories: [Debugging] 
 tags: [setting]     # TAG names should always be lowercase
 ---
 
