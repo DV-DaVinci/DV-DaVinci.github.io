@@ -11,7 +11,7 @@ IoC를 지원하는 스프링 컨테이너는 객체를 관리하는 별도의 �
 
 결국에는 둘 다 컨테이너기 때문에 서블릿 컨테이너에게 web.xml 파일이 있었던 것처럼 스프링 컨테이너 설정파일도 ~.xml일 것이다 라는 것을 예상해 볼 수 있습니다.
 
-## applicationContext.xml 생성
+## applicationContext.xml 생성 
 
 ---
 
