@@ -98,6 +98,6 @@ ApplicationContext는 실습에서 볼 수 있었던 것처럼 `<bean>`으로 �
 
 단점은 한번 쓰거나, 안 쓰는 것들도 다 로드하기 때문에 메모리가 낭비되는 경향이 있습니다. 하지만 이런 단점들도 설정으로 충분히 해결할 수 있기 때문에 BeanFactory보다 많이 사용되고 있습니다. 
 
-[스프링 공식 문서]([https://docs.spring.io/spring-framework/docs/2.5.x/reference/beans.html#context-introduction-ctx-vs-beanfactory](https://docs.spring.io/spring-framework/docs/2.5.x/reference/beans.html#context-introduction-ctx-vs-beanfactory)를 찾아보니 두 컨테이너 중 특별한 이유가 없다면 ApplicationContext를 사용해야 한다고 나와있습니다.
+[스프링 공식 문서](https://docs.spring.io/spring-framework/docs/2.5.x/reference/beans.html#context-introduction-ctx-vs-beanfactory)를 찾아보니 두 컨테이너 중 특별한 이유가 없다면 ApplicationContext를 사용해야 한다고 나와있습니다.
 
 이유는 BeanFactory를 상속받았기 때문에 BeanFactory의 모든 기능을 포함하는 것은 물론이고 추가 기능들을 제공하기 때문입니다.
