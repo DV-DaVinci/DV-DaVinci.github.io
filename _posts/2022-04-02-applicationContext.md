@@ -1,6 +1,6 @@
 ---
 title: applicationContext.xml
-date: 2022-04-02 06:06:00 +09:00 
+date: 2022-04-02 06:19:00 +09:00 
 categories: [WEB-Backend, Spring] 
 tags: [Spring, applicationContext.xml]     # TAG names should always be lowercase
 ---
@@ -58,7 +58,7 @@ public class IPhone implements Phone {
 
 - applicationContext.xml
 
-```XML
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -155,7 +155,7 @@ public class IPhone implements Phone {
 아이폰 소리 ++
 ```
 
- 결과를 확인해보면 `lookup`을 하는 순간 기본생성자를 호출해서 객체를 생성하고, 만들어진 객체로 powerOn()/ volumeUp() 을 하고 있다는 것을 확인할 수 있습니다. 
+결과를 확인해보면 `lookup`을 하는 순간 기본생성자를 호출해서 객체를 생성하고, 만들어진 객체로 powerOn()/ volumeUp() 을 하고 있다는 것을 확인할 수 있습니다. 
 
 중요한건 점점 객체를 생성, 관리하는 것을 전부 설정파일에 넘김으로써 
 
@@ -198,7 +198,7 @@ public class GalaxyPhone implements Phone{
 
 - applicationContext.xml 수정
 
-```XML
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
